@@ -1,0 +1,15 @@
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\bin\Debug\net6.0\perimeter and area.exe
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\bin\Debug\net6.0\perimeter and area.deps.json
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\bin\Debug\net6.0\perimeter and area.runtimeconfig.json
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\bin\Debug\net6.0\perimeter and area.dll
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\bin\Debug\net6.0\ref\perimeter and area.dll
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\bin\Debug\net6.0\perimeter and area.pdb
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.csproj.AssemblyReference.cache
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.AssemblyInfoInputs.cache
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.AssemblyInfo.cs
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.csproj.CoreCompileInputs.cache
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.dll
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\ref\perimeter and area.dll
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.pdb
+C:\Users\Ryanm\source\repos\perimeter and area\perimeter and area\obj\Debug\net6.0\perimeter and area.genruntimeconfig.cache
